@@ -1,6 +1,6 @@
 ## Forecasting Asset Returns Using Machine Learning and Artificial Intelligence: A Quant Journey
 
-This repository contains the research and analysis presented by J. Francisco Salazar at the **1st Artificial Intelligence in Finance Conference (AIIFC)**, focused on leveraging machine learning and artificial intelligence to forecast asset returns. 
+This repository contains the research and analysis presented by J. Francisco Salazar at the [1st Artificial Intelligence in Finance Conference (AIIFC)](https://home.tpq.io/aiifc/), focused on leveraging machine learning and artificial intelligence to forecast asset returns.
 
 ## About the Research
 This body of work delves into the robust application of quantitative methods in finance. The journey is illustrated through detailed a Jupyter Notebook that guide users from data acquisition to complex strategy backtesting, employing cutting-edge AI techniques for asset return forecasting.

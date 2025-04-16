@@ -1,5 +1,5 @@
 ## Forecasting Asset Returns Using Machine Learning and Artificial Intelligence: A Quant Journey
-![AlIF Conference at Texas State University, San Marcos, TX](images/Presnetation.png)
+![AlIF Conference at Texas State University, San Marcos, TX](Images/Presentation.png)
 
 This repository contains the research and analysis presented by J. Francisco Salazar at the [1st Artificial Intelligence in Finance Conference (AIIFC)](https://home.tpq.io/aiifc/), focused on leveraging machine learning and artificial intelligence to forecast asset returns.
 
@@ -14,6 +14,8 @@ Key Highlights:
 - Application of Machine Learning Models for Forecasting
 - Algorithmic trading strategy backtesting using classifiers such as Naive Bayes, Logistic Regression, Decision Trees, Random Forest, SVM, and a Voting Classifier.
 - Strategy Backtesting and Performance Metrics
+
+![Algorithmic Trading Strategies Backtesting](Images/Algo_Trade_Backt.png)
 
 ## Conference Presentation
 - **Presenter:** J. Francisco Salazar

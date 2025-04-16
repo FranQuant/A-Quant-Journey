@@ -1,4 +1,5 @@
 ## Forecasting Asset Returns Using Machine Learning and Artificial Intelligence: A Quant Journey
+![AlIF Conference at Texas State University, San Marcos, TX](images/Presnetation.png)
 
 This repository contains the research and analysis presented by J. Francisco Salazar at the [1st Artificial Intelligence in Finance Conference (AIIFC)](https://home.tpq.io/aiifc/), focused on leveraging machine learning and artificial intelligence to forecast asset returns.
 
